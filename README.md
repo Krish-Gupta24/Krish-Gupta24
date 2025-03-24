@@ -9,18 +9,26 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishgupta24) 
 
-<img align="centre" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif"  />
+
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krish-Gupta24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+      <br/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Krish-Gupta24&theme=dark&hide_border=false" />
+      <br/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+    <td>
+      <img align="center" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Krish-Gupta24&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 📈 GitHub Contributions:
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Gupta24/Krish-Gupta24/output/github-snake-dark.svg" />
