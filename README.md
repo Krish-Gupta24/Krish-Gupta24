@@ -41,6 +41,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Krish-Gupta24/count.svg?"  />
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=Krish-Gupta24&color=green&base=1080&label=VIEWS" alt="Profile views" />
 </div>
+
