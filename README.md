@@ -1,47 +1,172 @@
-# 💫 About Me:
-<br>👋 Hi, I'm Krish Gupta! A student who loves to learn, explore, and build new things. 🚀<br>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Krish%20Gupta&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51"/>
 
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Mantine](https://img.shields.io/badge/Mantine-ffffff?style=for-the-badge&logo=Mantine&logoColor=339af0) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishgupta24) 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Exploring+Modern+Technologies;Open+Source+Contributor;Passionate+About+Clean+Code" alt="Typing SVG" />
 
+</div>
 
+---
 
-# 📊 GitHub Stats:
+<div align="center">
+
+### 🚀 **Transforming Ideas Into Digital Reality**
+
+*Dedicated to crafting robust, user-centric applications with cutting-edge technologies. Committed to continuous learning and building solutions that make a difference.*
+
+</div>
+
+---
+
+## 🛠️ **Technology Ecosystem**
+
+<details open>
+<summary><b>🎨 Frontend Development</b></summary>
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Backend & Database</b></summary>
+
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![NeonDB](https://img.shields.io/badge/NeonDB-00E599?style=for-the-badge&logo=neon&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🎯 State Management & Real-time</b></summary>
+
+![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+</details>
+
+<details open>
+<summary><b>🔧 Development Tools & Others</b></summary>
+
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+</details>
+
+---
+
+## 🌐 **Professional Network**
+
+<div align="center">
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-      <br/>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=Krish-Gupta24&theme=dark&hide_border=false" />
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Gupta24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-    </td>
-    <td>
-      <img align="center" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTd3MGZkbXdyc2xpNWN1eTd5M2o0YmZ1anRtNmc0ODRvOGVtYmQyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
-    </td>
-  </tr>
+<tr>
+<td align="center" width="25%">
+<a href="https://krishgupta-seven.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌟_Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+<br><sub><b>View My Work</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/krishgupta24" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<br><sub><b>Professional Network</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://leetcode.com/u/Krish-Gupta24/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode"/>
+<br><sub><b>Coding Practice</b></sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:krishg053@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<br><sub><b>Get In Touch</b></sub>
+</a>
+</td>
+</tr>
 </table>
 
-# 📈 GitHub Contributions:
+</div>
+
+---
+
+## 📊 **GitHub Performance Metrics**
+
+<div align="center">
+  
+<table>
+<tr>
+<td>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Krish-Gupta24&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
+</td>
+<td>
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krish-Gupta24&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Krish-Gupta24&theme=radical&hide_border=true&background=0D1117&stroke=0000&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+
+
+## 🐍 **Contribution Visualization**
+
+<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish-Gupta24/Krish-Gupta24/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish-Gupta24/Krish-Gupta24/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Krish-Gupta24/Krish-Gupta24/output/github-snake-dark.svg" />
 </picture>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Krish-Gupta24&color=green&base=1080&label=VIEWS" alt="Profile views" />
 </div>
 
+---
+
+<div align="center">
+
+### 💭 **Developer Insights**
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote" />
+
+---
+
+<img src="https://komarev.com/ghpvc/?username=Krish-Gupta24&color=F85D7F&style=for-the-badge&label=Profile+Views&base=1200" alt="Profile Views" />
+
+<br/>
+
+✨ Always excited about new opportunities and collaborations! Let's build something amazing together! ✨
+
+---
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
