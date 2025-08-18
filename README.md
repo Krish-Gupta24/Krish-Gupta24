@@ -82,12 +82,6 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<a href="https://krishgupta-seven.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌟_Portfolio-%23000000.svg?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-<br><sub><b>View My Work</b></sub>
-</a>
-</td>
-<td align="center" width="25%">
 <a href="https://linkedin.com/in/krishgupta24" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 <br><sub><b>Professional Network</b></sub>
